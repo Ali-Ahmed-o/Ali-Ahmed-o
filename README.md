@@ -9,7 +9,7 @@
 [![website](./img/link-solid.svg)](https://ali-ahmed-me.web.app/)
 
 &nbsp;&nbsp;
-[![website](./img/linkedin.svg)](https://www.linkedin.com/in/ali-ahmed-66a8b41aa/)
+[![website style: fontfamily:small](./img/linkedin.svg)](https://www.linkedin.com/in/ali-ahmed-66a8b41aa/)
 
 
 
