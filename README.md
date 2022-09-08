@@ -10,8 +10,8 @@
 
 
 <p>
-	<a href="AliAhmed.workarea@gmail.com"><img src="./img/gmail/" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/ali-ahmed-66a8b41aa/"><img src="./img/gmail/" alt="LinkedIn"/></a>
+	<a href="AliAhmed.workarea@gmail.com"><img img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/ali-ahmed-66a8b41aa/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
 
