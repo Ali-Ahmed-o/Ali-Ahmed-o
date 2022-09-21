@@ -1,4 +1,4 @@
-# Hi there, I'm Ali Ahmed 👋 
+# <h1 align="center">Hi there, I'm Ali Ahmed 👋 </h1>
 
 - 🌱 I’m currently learning NestJS
 - 📫 How to reach me: AliAhmed.workarea@gmail.com
