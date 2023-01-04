@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning NestJS
 - 📫 How to reach me: AliAhmed.workarea@gmail.com
-- 📄 My Resume: https://drive.google.com/file/d/1msE8BxL-Zlz3yfZfKFWgLFYcpI7i6GAD/view?usp=sharing
+- 📄 My Resume: https://drive.google.com/file/d/1PLfFB599Nb670US0_OA5fLML6DWqNS4j/view?usp=sharing
 
 ### Contact with me:
 
