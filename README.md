@@ -1,7 +1,7 @@
-# <h1 align="center">Hi there, I'm Ali Ahmed 👋 </h1> ![Profile views](https://gpvc.arturio.dev/Ali-Ahmed-o)
+# <h1 align="center">Hi there, I'm Ali Ahmed 👋 </h1> 
 
 
-- 🌱 I’m currently learning NestJS
+- 🌱 I’m currently learning NestJS                        ![Profile views](https://gpvc.arturio.dev/Ali-Ahmed-o)
 - 📫 How to reach me: AliAhmed.workarea@gmail.com
 - 📄 My Resume: https://drive.google.com/file/d/1PLfFB599Nb670US0_OA5fLML6DWqNS4j/view?usp=sharing
 
