@@ -1,5 +1,5 @@
 # <h1 align="center">Hi there, I'm Ali Ahmed 👋 </h1> 
-:-: ![Profile views](https://gpvc.arturio.dev/Ali-Ahmed-o)
+:![Profile views](https://gpvc.arturio.dev/Ali-Ahmed-o): 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
