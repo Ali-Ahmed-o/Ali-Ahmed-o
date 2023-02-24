@@ -1,5 +1,5 @@
 # <h1 align="center">Hi there, I'm Ali Ahmed 👋 </h1>
-                               ![Profile views](https://gpvc.arturio.dev/Ali-Ahmed-o)
+  <h1 align="center">![Profile views](https://gpvc.arturio.dev/Ali-Ahmed-o)</h1>
 
 - 🌱 I’m currently learning NestJS
 - 📫 How to reach me: AliAhmed.workarea@gmail.com
