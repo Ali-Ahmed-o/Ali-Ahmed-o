@@ -1,6 +1,6 @@
-# <h1 align="center">Hi there, I'm Ali Ahmed 👋  
-![Profile views](https://gpvc.arturio.dev/Ali-Ahmed-o)
-</h1>
+# <h1 align="center">Hi there, I'm Ali Ahmed 👋 </h1>
+
+<div align="center">![Profile views](https://gpvc.arturio.dev/Ali-Ahmed-o)</div>
  
 - 🌱 I’m currently learning NestJS
 - 📫 How to reach me: AliAhmed.workarea@gmail.com
