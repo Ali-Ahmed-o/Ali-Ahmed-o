@@ -1,5 +1,5 @@
 # <h1 align="center">Hi there, I'm Ali Ahmed 🧑‍💻 </h1> 
- <h2 align="center"> Front-End Developer </h2> 
+ <p align="center"> Front-End Developer </p> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
