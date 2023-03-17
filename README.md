@@ -1,4 +1,4 @@
-# <h1 align="center">Hi there, I'm Ali Ahmed 👋 </h1> 
+# <h1 align="center">Hi there, I'm Ali Ahmed 🧑‍💻 </h1> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
