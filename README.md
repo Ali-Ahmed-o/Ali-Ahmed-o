@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Ali-Ahmed-o)
-- 🌱 I’m currently learning NestJS                       
+                      
 - 📫 How to reach me: AliAhmed.workarea@gmail.com
 
 ### Contact with me:
